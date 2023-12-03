@@ -2,7 +2,7 @@ Config = {}
 
 
 Config.questlimit = true   ----------- begrenzte Anzahl an Quests true Ja false Nein
-Config.maxquests = 3  --------  Anzahl der Quests bevor man keine mehr bekommt 3 = du kannst 3 Quests machen
+Config.maxquests = 5  --------  Anzahl der Quests bevor man keine mehr bekommt 3 = du kannst 3 Quests machen
 
 --Setup as many places as you want
 Config.questgeber = {

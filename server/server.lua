@@ -56,7 +56,7 @@ end)
 
 ------------------------------------QUESTS--------------------------------------
 
---- Quest 1
+--- Rewards
 
 RegisterNetEvent('mms-questsystem:server:rewards', function(reward)
 if reward >= 1 then
