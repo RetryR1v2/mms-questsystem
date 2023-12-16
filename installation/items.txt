@@ -1,0 +1,4 @@
+ -- mms-quest
+  
+    ['silberdollar']  = {['name'] = 'silberdollar',  ['label'] = 'Silberdollar',  ['weight'] = 0,  ['type'] = 'item', ['image'] = 'silberdollar.png',  ['unique'] = false, ['useable'] = false,  ['shouldClose'] = false, ['combinable'] = nil, ['level'] = 0, ['description'] = 'Silberdollar durch Quest Verdient'},
+      
